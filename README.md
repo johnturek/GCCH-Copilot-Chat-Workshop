@@ -9,14 +9,14 @@ A comprehensive collection of hands-on training materials for U.S. military serv
 | Service | Status | Facilitators Guide | Sample Data | Last Updated |
 |---------|--------|---------------|-------------|--------------|
 | 🪖 USMC | ✅ Complete | [View](USMC/README.md) | ✅ [View](/USMC/sample%20data/) | Oct 2025 |
-| 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | 🔄 Pending | - |
+| 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | 🔄 [View](/USA/sample%20data/) | - |
 | ✈️ USAF | 🔄 In Progress | [View](USAF/README.md) | 🔄 Pending | - |
 | ⚓ USN  | 🔄 In Progress | [View](USN/README.md) | 🔄 Pending | - |
 | ⛵ USCG | 🔄 In Progress | [View](USCG/README.md) | ✅ [View](/USCG/sample%20data/) | - |
 | 🚀 USSF | 🔄 In Progress | [View](USSF/README.md) | 🔄 Pending | - |
 | 🏛️ DOS  | 🔄 In Progress | [View](DOS/README.md) | ✅ [View](/DOS/sample%20data/) | - |
-| ⚖️ DOJ  | 🔄 In Progress | [View](DOJ/README.md) | 🔄 Pending | - |
-| 🛡️ FBI  | 🔄 In Progress | [View](FBI/README.md) | 🔄 Pending | - |
+| ⚖️ DOJ  | 🔄 In Progress | [View](DOJ/README.md) | 🔄 [View](/DOJ/sample%20data/) | - |
+| 🛡️ FBI  | 🔄 In Progress | [View](FBI/README.md) | 🔄 [View](/FBI/sample%20data/) | - |
 
 ## 🚀 Quick Start (5 Minutes)
 
