@@ -1,0 +1,141 @@
+CLASSIFICATION: UNCLASSIFIED
+FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
+
+=== SENIOR LEADERSHIP MEETING TRANSCRIPT ===
+Department of Justice Main Justice - Attorney General's Conference Room
+Meeting Date: March 21, 2028, 0900-1030
+Location: 5th Floor Executive Conference Room (SCIF)
+
+ATTENDEES:
+- Attorney General Patricia Henderson (AG) - Presiding
+- Deputy Attorney General Michael Chang (DAG)
+- Associate Attorney General Jennifer Martinez (AAG)
+- Assistant Attorney General Robert Kim (Criminal Division)
+- Assistant Attorney General Sarah Johnson (Civil Rights Division)
+- Assistant Attorney General David Williams (Civil Division)
+- Director Lisa Thompson (Executive Office for U.S. Attorneys - EOUSA)
+- Assistant Attorney General Mark Anderson (National Security Division)
+
+AGENDA ITEM 1: ENFORCEMENT PRIORITIES - Q2 2028
+
+Attorney General Henderson: Good morning, everyone. Let's begin with our enforcement priorities for the quarter. Robert, please start with Criminal Division priorities.
+
+AAG Kim (Criminal Division): Madam Attorney General, we're tracking three major initiatives. First, the Organized Crime and Gang Section is finalizing our RICO prosecution strategy targeting transnational criminal organizations. We're coordinating prosecutions in seven districts with expected indictments mid-April involving MS-13 and Sinaloa Cartel operations.
+
+Second, the Computer Crime and Intellectual Property Section is ramping up ransomware prosecutions. We have twelve active grand jury investigations, with three major indictments expected before June. This aligns with the Administration's cyber enforcement priorities.
+
+Third, we're enhancing coordination with Financial Crimes Enforcement Network (FinCEN) on cryptocurrency-enabled money laundering. We've identified 23 high-priority targets and are working with FBI on parallel criminal-civil forfeiture actions.
+
+DAG Chang: On the ransomware cases - how are we coordinating with our international partners given the cross-border nature of these networks?
+
+AAG Kim (Criminal Division): Sir, excellent coordination. We're working through DOJ's Office of International Affairs with Europol and key bilateral partners. The Computer Crime and Intellectual Property Section has attorneys detailed to The Hague. We're also leveraging Mutual Legal Assistance Treaties to obtain evidence and coordinate takedowns.
+
+We have a critical operation coming up - coordinated international law enforcement action in May targeting ransomware-as-a-service infrastructure. This will involve simultaneous operations in eight countries with DOJ coordinating U.S. prosecutions in Eastern District of Virginia and Northern District of California.
+
+Attorney General Henderson: What's our recommendation on public messaging around these enforcement actions?
+
+AAG Kim (Criminal Division): Madam Attorney General, I recommend we emphasize deterrence messaging - substantial prison sentences, major asset forfeitures, and disruption of criminal infrastructure. The Office of Public Affairs should coordinate press conferences in each prosecuting district to demonstrate nationwide enforcement commitment.
+
+AGENDA ITEM 2: CIVIL RIGHTS ENFORCEMENT AND CONSENT DECREES
+
+AAG Johnson (Civil Rights Division): Madam Attorney General, the Civil Rights Division is managing significant pattern or practice investigations. We have twelve active police department investigations under 34 U.S.C. § 12601, with three cities entering consent decree negotiations this quarter.
+
+Current priorities include Riverside Police Department (findings letter issued March 1), Springfield Police Department (investigation ongoing), and Memphis Police Department (monitoring existing consent decree). Our Special Litigation Section is stretched thin managing both new investigations and consent decree compliance monitoring for fourteen cities.
+
+DAG Chang: What's driving the resource constraints? Staffing or litigation complexity?
+
+AAG Johnson (Civil Rights Division): Both, sir. We're down four Trial Attorneys - two departed for private practice, two detailed to January 6 prosecutions. Additionally, consent decree monitoring requires sustained oversight for 5-7 years per jurisdiction, creating long-term resource commitments.
+
+AAG Williams (Civil Division): We've explored cross-component support. The Civil Division's Federal Programs Branch has attorneys with relevant expertise who could assist on specific matters. However, Civil Rights' specialized knowledge on constitutional policing standards is difficult to replicate.
+
+Attorney General Henderson: Approved for targeted Civil Division support. Sarah, coordinate with David on resource sharing. Also, I want a strategic assessment of our consent decree portfolio - which cities are showing progress toward sustainable reform versus which require continued intensive oversight. Associate AG Martinez, work with Sarah on this review.
+
+AGENDA ITEM 3: NATIONAL SECURITY PRIORITIES
+
+AAG Anderson (National Security Division): Madam Attorney General, the national security threat environment remains elevated. We're managing several high-priority matters:
+
+First, increased cyber intrusions by nation-state actors targeting critical infrastructure. NSD's Counterintelligence and Export Control Section is coordinating prosecutions with FBI on Chinese APT groups. We have three active grand juries and expect indictments in May.
+
+Second, domestic terrorism cases continue rising. We're prosecuting cases involving both racially motivated violent extremism and anti-government militia groups. Coordination with U.S. Attorneys' Offices has been excellent across 34 pending cases.
+
+Third, we've seen uptick in foreign agent violations under FARA and 18 U.S.C. § 951. The Counterespionage Section is investigating twelve individuals with suspected ties to foreign intelligence services.
+
+Attorney General Henderson: Are we confident in our litigation posture for the major cyber cases?
+
+AAG Anderson (National Security Division): Yes, Ma'am. We've conducted litigation readiness reviews with the Computer Crime and Intellectual Property Section and FBI Cyber Division. Our evidence is strong. I recommend we coordinate announcements with Treasury OFAC sanctions and State Department diplomatic actions for maximum deterrent effect.
+
+AGENDA ITEM 4: U.S. ATTORNEYS' OFFICE COORDINATION
+
+Director Thompson (EOUSA): Madam Attorney General, we've had productive coordination with the 94 U.S. Attorneys' Offices this quarter. Key highlights:
+
+Our district resource allocation analysis shows caseload increases of 18% in border districts and 12% in major metropolitan areas. We're working with Justice Management Division on supplemental staffing requests for FY2029.
+
+However, we're also tracking concerning retention trends. Eight AUSAs departed for private practice in Q1 - particularly experienced prosecutors in complex financial fraud and national security cases. Exit interviews cite compensation gaps and work-life balance concerns.
+
+Looking ahead, we have the U.S. Attorneys' Conference in June. I recommend focusing on professional development for newer AUSAs and retention strategies for experienced prosecutors.
+
+Attorney General Henderson: Agreed. What support do you need for retention initiatives?
+
+Director Thompson (EOUSA): Madam Attorney General, primarily enhanced training opportunities and leadership development programs. If we could expand our AUSA training budget by 15% and create senior AUSA mentorship programs, that would significantly improve retention.
+
+DAG Chang: I'll work with you on budget reprogramming options. We should also explore student loan repayment programs and recruitment bonuses for hard-to-fill positions.
+
+AGENDA ITEM 5: BUDGET AND MANAGEMENT PRIORITIES
+
+Associate AG Martinez: Madam Attorney General, three items for your awareness:
+
+First, we're 68% through the fiscal year with 72% of appropriations obligated - slightly ahead of pace. However, the Civil Rights consent decree monitoring and Criminal Division's transnational organized crime prosecutions will require reprogramming funds from other areas. Justice Management Division will provide options by next week.
+
+Second, our IT infrastructure assessment identified needed cybersecurity upgrades for case management systems - estimated $18.7 million. This exceeds current IT modernization budget authority, so we'll need Congressional notification for reprogramming.
+
+Third, we're implementing new hybrid work policies per OMB guidance. This is creating operational challenges for litigation components that require in-person grand jury and trial work. Human Resources is conducting policy reviews to balance flexibility with operational needs.
+
+Attorney General Henderson: On the cybersecurity upgrades - what's the timeline if we don't get funding approval?
+
+Associate AG Martinez: Madam Attorney General, our systems are functional but aging. We're seeing increased vulnerability to cyber intrusions and compatibility issues with law enforcement partners' systems. If we defer, we risk security breaches that could compromise ongoing investigations and prosecutions.
+
+Attorney General Henderson: Understood. Let's make the Congressional notification a priority. DAG Chang, I'll need you to engage with Judiciary Committee staff on the appropriations process.
+
+ADDITIONAL ITEMS DISCUSSED:
+
+- Coordination for Attorney General's testimony before Senate Judiciary Committee in April
+- Implementation of new prosecutorial guidance on corporate enforcement
+- Expansion of Project Safe Neighborhoods in high-crime areas
+- Federal judiciary vacancy impact on case management
+- Emergency response protocols update
+
+ACTIONS REQUIRED:
+
+1. Criminal Division: Draft testimony statement on organized crime prosecutions for AG's Senate appearance - Due: March 25
+2. Civil Rights Division: Complete consent decree portfolio strategic assessment - Due: April 5
+3. National Security Division: Coordinate cyber prosecution announcements with interagency partners - Due: March 28
+4. EOUSA: Submit AUSA retention initiative proposal and training budget request - Due: March 24
+5. Office of the Associate AG: Provide budget reprogramming options, submit Congressional notification for IT modernization - Due: March 29
+6. All Components: Update component strategic plans to align with AG priorities - Due: March 31
+
+NEXT MEETING: April 4, 2028 for pre-testimony preparation
+
+Attorney General Henderson: Excellent work, everyone. A few closing thoughts: First, we're entering a critical enforcement period with major RICO prosecutions, consent decree negotiations, and cyber takedowns. Our work directly supports not just individual case outcomes but broader public safety and civil rights protection nationwide.
+
+Second, I appreciate the innovation on resource challenges. We'll continue advocating for what we need from Congress, but also finding solutions with what we have through cross-component coordination.
+
+Third, remember we're One DOJ. The Criminal Division's organized crime work supports National Security's counterterrorism efforts, Civil Rights enforcement reinforces public trust that enables effective prosecution, EOUSA's district support ensures consistent nationwide enforcement. Each component's success contributes to the Department's mission.
+
+Thank you for your dedication to upholding the rule of law and serving the American people.
+
+Meeting adjourned at 1030.
+
+NOTES:
+- All action items entered into Department action tracking system
+- Classified discussions on specific national security investigations held in separate SCIF session
+- Next senior leadership meeting scheduled April 4, 0900
+- Attorney General hosting swearing-in ceremony for new U.S. Attorneys on March 28 - all AAGs invited
+
+FOLLOW-UP COMMUNICATIONS NEEDED:
+- Office of the AG to send action item assignments with deadlines
+- Component leadership meetings to cascade senior leadership decisions
+- DAG to coordinate cross-component working groups for major initiatives
+- Office of the Associate AG to circulate budget reprogramming proposal for component review
+- Office of Public Affairs to draft AG's testimony statement and press guidance for enforcement announcements
+
+CLASSIFICATION: UNCLASSIFIED

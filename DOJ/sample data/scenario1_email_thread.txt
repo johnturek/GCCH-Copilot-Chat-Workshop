@@ -1,0 +1,142 @@
+CLASSIFICATION: UNCLASSIFIED
+FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
+
+=== EMAIL THREAD: CRIMINAL DISCOVERY COORDINATION ===
+
+From: Williams, Sarah J. (Assistant U.S. Attorney) <Sarah.Williams@usdoj.gov>
+To: Chen, David K. (Paralegal Specialist) <David.Chen@usdoj.gov>; Rodriguez, Maria L. (Paralegal Specialist) <Maria.Rodriguez@usdoj.gov>
+CC: Thompson, Robert A. (Criminal Chief AUSA) <Robert.Thompson@usdoj.gov>
+Date: Monday, March 18, 2028 0930
+Subject: Priority Discovery Productions - Week of March 18-22 - Action Required
+
+Team,
+
+Per Federal Rule of Criminal Procedure 16 and Brady obligations, we have several priority discovery productions requiring immediate attention this week. The workload must be distributed efficiently to meet our discovery deadlines.
+
+Priority Cases (Production deadline: March 22, 2028, 1700 local time):
+- Case #28-CR-00156: Wire fraud trial (USA v. Anderson) - Trial date April 15
+- Case #28-CR-00178: Drug trafficking conspiracy (USA v. Martinez) - Plea hearing March 28
+- Case #28-CR-00192: Bank robbery (USA v. Johnson) - Detention hearing March 25
+- Case #28-CR-00204: Identity theft (USA v. Williams) - Arraignment March 26
+
+David - You're assigned cases 28-CR-00156 and 28-CR-00178. Please prioritize Giglio materials review.
+Maria - Handle cases 28-CR-00192 and 28-CR-00204. Coordinate with FBI case agents for 302 reports.
+
+All productions require:
+- Completed discovery logs per USAO policy
+- Redactions reviewed (6(e) grand jury, informant identities)
+- Brady/Giglio materials flagged
+- Defense counsel notification via PACER
+
+Timeline is critical due to the upcoming federal holiday on March 25 (no court operations). Any discovery issues, contact me immediately.
+
+Best regards,
+Sarah Williams, GS-14
+Assistant U.S. Attorney
+Criminal Division
+U.S. Attorney's Office, Central District of California
+
+---
+
+From: Chen, David K. (Paralegal Specialist) <David.Chen@usdoj.gov>
+To: Williams, Sarah J. (Assistant U.S. Attorney) <Sarah.Williams@usdoj.gov>
+CC: Rodriguez, Maria L. (Paralegal Specialist) <Maria.Rodriguez@usdoj.gov>
+Date: Tuesday, March 19, 2028 1115
+Subject: RE: Priority Discovery Productions - Case 28-CR-00178 Brady Material Issue
+
+Ms. Williams,
+
+Case 28-CR-00178 (USA v. Martinez - drug trafficking) has potential Brady material requiring immediate review. During FBI 302 review, I identified:
+- Confidential informant reliability issues (failed polygraph in unrelated case)
+- Inconsistent statements by CI across three debriefings
+- DEA payment records showing $45,000 paid to CI over 18 months
+
+I flagged this for Brady review per Criminal Resource Manual 165. However, the case agent indicates the CI credibility issues were from 2025 and resolved. Defense counsel has filed a motion for early Brady production (filed March 18).
+
+Should we:
+1. Produce the CI materials by March 22 deadline as Brady?
+2. Request AUSA review before producing?
+3. File motion for in camera review with the Court?
+
+Also, case 28-CR-00156 (wire fraud trial) has voluminous bank records. FBI provided 12,000 pages of financial documents. Defense requested organized Bates-stamped production with privilege log. Estimated completion: March 21, which meets our deadline but is cutting it close.
+
+Question: For the wire fraud case, defense counsel requested forensic accountant discovery. Is this required under Rule 16(a)(1)(E) as expert witness disclosure?
+
+Respectfully,
+David Chen, GS-9
+Paralegal Specialist
+Criminal Division
+U.S. Attorney's Office, Central District of California
+
+---
+
+From: Thompson, Robert A. (Criminal Chief AUSA) <Robert.Thompson@usdoj.gov>
+To: Williams, Sarah J. (Assistant U.S. Attorney) <Sarah.Williams@usdoj.gov>; Chen, David K. (Paralegal Specialist) <David.Chen@usdoj.gov>; Rodriguez, Maria L. (Paralegal Specialist) <Maria.Rodriguez@usdoj.gov>
+Date: Wednesday, March 20, 2028 0815
+Subject: RE: Priority Discovery Productions - Guidance and Approvals
+
+Criminal Division Team,
+
+After reviewing the cases with the U.S. Attorney:
+
+1. Case 28-CR-00178 (Martinez drug trafficking): APPROVED for Brady production by March 22. Produce CI materials with redacted informant identity per sealed Court order. Coordinate with DEA on protective order requirements. This is exculpatory material under Brady v. Maryland - we have constitutional obligation.
+
+2. Case 28-CR-00156 (wire fraud): APPROVED for organized production with Bates stamps. Prioritize financial records linked to fraud counts in indictment. Expert witness disclosure required under Rule 16 - provide summary of accountant's expected testimony by March 22.
+
+3. All productions must include Jencks Act review per Criminal Resource Manual 620 - hold witness statements until after direct testimony, but identify in discovery log.
+
+David - Work with FBI case agent on accelerated Brady review for Martinez case. Coordinate protective order with defense counsel. Copy me on the status update by COB today.
+
+Maria - Send me update on the bank robbery and identity theft cases by noon. We need to ensure no delays given the detention hearing timeline for Johnson.
+
+Also, reminder: District received notice of increased discovery motions due to recent Supreme Court ruling on Brady obligations. We need to explore options for additional paralegal resources. Sarah, let's discuss case management in our 1400 meeting today.
+
+Well done on managing the discovery obligations during this busy trial calendar.
+
+Robert Thompson, GS-15
+Criminal Chief
+U.S. Attorney's Office, Central District of California
+
+---
+
+From: Rodriguez, Maria L. (Paralegal Specialist) <Maria.Rodriguez@usdoj.gov>
+To: Williams, Sarah J. (Assistant U.S. Attorney) <Sarah.Williams@usdoj.gov>; Chen, David K. (Paralegal Specialist) <David.Chen@usdoj.gov>
+CC: Thompson, Robert A. (Criminal Chief AUSA) <Robert.Thompson@usdoj.gov>
+Date: Wednesday, March 20, 2028 1200
+Subject: RE: Priority Discovery Productions - Bank Robbery and Identity Theft Status Update
+
+Team,
+
+Status update on assigned cases:
+
+Case 28-CR-00192 (USA v. Johnson - Bank Robbery):
+- All discovery materials complete and Bates-stamped (pages 00001-02450)
+- FBI 302 reports from six witnesses (bank teller, customers, responding officers)
+- Surveillance video from bank and nearby businesses (4 hours total, organized by timestamp)
+- Forensic evidence: DNA on demand note, fingerprints (CODIS match to defendant)
+- Brady review: COMPLETED (no exculpatory material identified)
+- Discovery production scheduled: March 21, 2028, via secure FTP to defense counsel
+- Detention hearing: March 25, 2028 - Government recommends detention (flight risk, firearm involved)
+
+Case 28-CR-00204 (USA v. Williams - Identity Theft):
+- Defendant charged with aggravated identity theft (18 U.S.C. § 1028A) involving 47 victims
+- Bank records from Chase, Wells Fargo showing fraudulent accounts
+- Victim impact statements collected from 32 of 47 victims
+- Digital forensics: Laptop seized with spreadsheet of stolen SSNs and DOBs
+- Previous convictions: 2024 mail fraud (relevant for sentencing, not admissible at trial without 404(b) ruling)
+- Arraignment scheduled: March 26, 2028, 1000 hours
+- Discovery estimate: 8,500 pages (production by March 22 deadline achievable)
+
+Both cases meet all discovery requirements per Federal Rules of Criminal Procedure and Brady obligations. No Giglio issues identified.
+
+Criminal Chief Thompson - per your request, both cases are on track for timely production.
+
+Question for the team: Should we prepare a summary memo of this week's priority cases for the weekly Criminal Division meeting? It demonstrates our compliance with discovery obligations.
+
+Best,
+Maria Rodriguez, GS-9
+Paralegal Specialist
+Criminal Division
+U.S. Attorney's Office, Central District of California
+
+CLASSIFICATION: UNCLASSIFIED

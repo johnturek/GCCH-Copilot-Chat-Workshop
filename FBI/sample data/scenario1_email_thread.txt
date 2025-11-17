@@ -1,0 +1,141 @@
+CLASSIFICATION: UNCLASSIFIED
+FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
+
+=== EMAIL THREAD: COUNTERTERRORISM INVESTIGATIVE LEADS ===
+
+From: Johnson, Michael R. (Supervisory Special Agent) <Michael.Johnson@ic.fbi.gov>
+To: Williams, Sarah K. (Intelligence Analyst) <Sarah.Williams@ic.fbi.gov>; Martinez, Carlos J. (Special Agent) <Carlos.Martinez@ic.fbi.gov>
+CC: Thompson, Patricia A. (Assistant Special Agent in Charge) <Patricia.Thompson@ic.fbi.gov>
+Date: Monday, March 18, 2028 0930
+Subject: Priority CT Leads - Week of March 18-22 - Action Required
+
+Team,
+
+Per DIOG Section 5.5, we have several priority counterterrorism leads requiring immediate attention this week. The workload must be distributed efficiently to meet operational deadlines.
+
+Priority Leads (Investigative action deadline: March 22, 2028, 1700 local time):
+- Case #272A-WF-4567: Suspected homegrown violent extremist (HVE) - social media threat indicators requiring follow-up
+- Case #272A-WF-4589: International terrorism subject - potential travel to conflict zone requiring urgent assessment
+- Case #272A-WF-4601: Material support investigation - financial transaction analysis needed before source meeting
+- Case #272A-WF-4623: Joint Terrorism Task Force referral - interagency coordination required for surveillance operation
+
+Sarah - You're assigned cases 272A-WF-4567 and 272A-WF-4589. Please prioritize threat assessment and database checks.
+Carlos - Handle cases 272A-WF-4601 and 272A-WF-4623. Coordinate with JTTF partners and Financial Analysis Section.
+
+All leads require:
+- Guardian database entries and updates
+- Completed threat assessment matrices
+- JTTF notification if applicable
+- Supporting intelligence products and source documentation
+
+Timeline is critical due to the upcoming intelligence community briefing on March 25. Any operational conflicts or resource needs, contact me immediately.
+
+Best regards,
+Michael Johnson
+Supervisory Special Agent
+Counterterrorism Division
+FBI Washington Field Office
+
+---
+
+From: Williams, Sarah K. (Intelligence Analyst) <Sarah.Williams@ic.fbi.gov>
+To: Johnson, Michael R. (Supervisory Special Agent) <Michael.Johnson@ic.fbi.gov>
+CC: Martinez, Carlos J. (Special Agent) <Carlos.Martinez@ic.fbi.gov>
+Date: Tuesday, March 19, 2028 1115
+Subject: RE: Priority CT Leads - Case 272A-WF-4589 Intelligence Gap
+
+SSA Johnson,
+
+Case 272A-WF-4589 (international terrorism subject) has incomplete intelligence reporting. The subject, HASSAN, Mohammad, has known travel patterns to Turkey but missing:
+- Complete financial transaction history (bank records from 2027-2028)
+- Full social network analysis (associates identified but not fully vetted)
+- Travel documentation analysis (passport stamps require translation and verification)
+
+I contacted our Legal Attaché in Ankara requesting records by COB March 20. However, they indicated difficulty obtaining bank records until March 23 due to foreign government processing requirements and legal review.
+
+Should we:
+1. Schedule threat assessment briefing for March 23 (after intelligence gaps filled)?
+2. Request expedited liaison channel through State Department?
+3. Proceed with preliminary threat assessment using available information?
+
+Also, case 272A-WF-4567 (HVE subject) has a database name-check delay. The subject has a common name flagging multiple FBI and IC database matches. Estimated resolution: March 21, which meets our deadline but is cutting it close for the tasking.
+
+Question: For the HVE case, the JTTF requested expedited physical surveillance approval. Is this eligible under our immediate threat criteria, or do we need FBIHQ approval?
+
+Respectfully,
+Sarah Williams, GS-11
+Intelligence Analyst
+Counterterrorism Division
+FBI Washington Field Office
+
+---
+
+From: Thompson, Patricia A. (Assistant Special Agent in Charge) <Patricia.Thompson@ic.fbi.gov>
+To: Johnson, Michael R. (Supervisory Special Agent) <Michael.Johnson@ic.fbi.gov>; Williams, Sarah K. (Intelligence Analyst) <Sarah.Williams@ic.fbi.gov>; Martinez, Carlos J. (Special Agent) <Carlos.Martinez@ic.fbi.gov>
+Date: Wednesday, March 20, 2028 0815
+Subject: RE: Priority CT Leads - Operational Guidance and Approvals
+
+CT Squad,
+
+After reviewing the leads with SAC and coordinating with FBIHQ Counterterrorism Division:
+
+1. Case 272A-WF-4589 (HASSAN international terrorism): APPROVED for March 26 threat assessment briefing. Proceed with preliminary assessment using available intelligence. Legal Attaché coordination continues for complete financial records. Prioritize travel pattern analysis and associate network mapping.
+
+2. Case 272A-WF-4567 (HVE subject): APPROVED for expedited physical surveillance under immediate threat authority per DIOG 18.3. This qualifies under operational priority given social media threat indicators. Coordinate with JTTF partners and schedule surveillance for March 22 pending database resolution.
+
+3. All leads must include enhanced vetting per recent FBIHQ operational memo 28-CT-012345 - additional scrutiny on foreign contacts and financial patterns.
+
+Sarah - Work with Intelligence Division on accelerated database query resolution for the HVE case. Copy me on the intelligence product by COB today.
+
+Carlos - Send me update on the material support and JTTF referral cases by noon. We need to ensure no operational delays given the interagency coordination requirements.
+
+Also, reminder: Squad received tasking for increased lead coverage due to elevated threat environment. We need to explore options for additional analyst and agent resources. Michael, let's discuss squad workload allocation in our 1400 operational meeting today.
+
+Well done on managing the operational tempo during this critical period.
+
+Patricia Thompson
+Assistant Special Agent in Charge
+Counterterrorism Division
+FBI Washington Field Office
+
+---
+
+From: Martinez, Carlos J. (Special Agent) <Carlos.Martinez@ic.fbi.gov>
+To: Johnson, Michael R. (Supervisory Special Agent) <Michael.Johnson@ic.fbi.gov>; Williams, Sarah K. (Intelligence Analyst) <Sarah.Williams@ic.fbi.gov>
+CC: Thompson, Patricia A. (Assistant Special Agent in Charge) <Patricia.Thompson@ic.fbi.gov>
+Date: Wednesday, March 20, 2028 1200
+Subject: RE: Priority CT Leads - Material Support and JTTF Cases Status Update
+
+Squad,
+
+Status update on assigned leads:
+
+Case 272A-WF-4601 (Material Support Investigation):
+- All financial transaction analysis complete and documented in Guardian
+- Financial Analysis Section confirmed suspicious wire transfers: $45,000 to overseas entities
+- Source meeting scheduled with cooperating witness for operational details
+- Database checks: COMPLETED (subject has prior terrorism-related contact)
+- Source debrief scheduled: March 22, 2028, 1000 hours at offsite location
+- Recommendation: PROCEED with full investigation and coordinate with counterintelligence for foreign nexus assessment
+
+Case 272A-WF-4623 (JTTF Referral - Surveillance Operation):
+- Subject is associate of known HVE who traveled to conflict zone in 2026
+- JTTF partner (Metro PD) provided surveillance photos from recent extremist gathering
+- Subject has recent weapons purchase (legal but concerning given threat indicators)
+- Criminal history: No prior arrests, employment verified
+- Physical surveillance coordinated: March 21, 2028, 0600 hours (rolling coverage)
+- Recommendation: APPROVE surveillance operation given behavioral indicators and associate connections
+
+Both leads meet all DIOG investigative predication requirements. No civil liberties concerns identified. Legal review completed.
+
+ASAC Thompson - per your request, both operations are on track for timely execution.
+
+Question for the squad: Should we prepare an intelligence summary of this week's priority CT leads for the Friday operational briefing to SAC? It demonstrates our squad's operational productivity and threat mitigation efforts.
+
+Best,
+Carlos Martinez
+Special Agent
+Counterterrorism Squad
+FBI Washington Field Office
+
+CLASSIFICATION: UNCLASSIFIED

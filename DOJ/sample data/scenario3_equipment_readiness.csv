@@ -1,0 +1,26 @@
+﻿District,State,Total_AUSAs,Criminal_AUSAs,Civil_AUSAs,Paralegal_Staff,Total_Cases_FY2028,Criminal_Cases,Civil_Cases,Cases_Per_AUSA,Staffing_Status,Resource_Gap,Budget_FY2028_Millions,Pending_Trials,Trial_Days_Avg,Priority
+Central District of California,CA,287,198,89,142,4567,3245,1322,15.9,Adequate,None,42.5,67,18.3,High
+Southern District of New York,NY,245,167,78,128,5234,3678,1556,21.4,Understaffed,12 AUSAs needed,38.7,89,21.5,Critical
+District of Columbia,DC,178,124,54,94,3892,2456,1436,21.9,Understaffed,8 AUSAs needed,28.9,54,16.7,High
+Northern District of Illinois,IL,156,102,54,81,3124,2045,1079,20.0,Adequate,None,24.3,42,19.2,Medium
+Eastern District of Virginia,VA,134,91,43,72,2867,1923,944,21.4,Adequate,None,21.8,38,15.8,Medium
+District of Massachusetts,MA,98,67,31,52,1945,1289,656,19.8,Adequate,None,16.4,28,17.5,Medium
+Western District of Texas,TX,145,112,33,68,3456,2678,778,23.8,Understaffed,15 AUSAs needed,22.1,52,20.1,Critical
+Northern District of Georgia,GA,112,78,34,58,2534,1745,789,22.6,Understaffed,6 AUSAs needed,18.7,35,18.9,High
+Southern District of Florida,FL,187,143,44,89,4123,3234,889,22.0,Understaffed,10 AUSAs needed,29.4,61,22.3,High
+District of Colorado,CO,87,59,28,45,1678,1123,555,19.3,Adequate,None,14.2,24,14.6,Low
+District of Arizona,AZ,142,105,37,67,3289,2567,722,23.2,Understaffed,9 AUSAs needed,21.5,48,21.8,High
+Western District of Washington,WA,94,62,32,51,1845,1189,656,19.6,Adequate,None,15.8,29,16.2,Medium
+District of Maryland,MD,119,82,37,64,2456,1678,778,20.6,Adequate,None,19.3,33,17.4,Medium
+Southern District of Texas,TX,178,134,44,84,4234,3345,889,23.8,Understaffed,18 AUSAs needed,27.6,58,23.5,Critical
+District of New Jersey,NJ,132,89,43,69,2678,1823,855,20.3,Adequate,None,21.2,38,18.7,Medium
+Eastern District of New York,NY,198,135,63,103,3945,2734,1211,19.9,Adequate,None,31.4,52,19.8,High
+Northern District of Texas,TX,156,118,38,72,3567,2812,755,22.9,Understaffed,12 AUSAs needed,24.3,47,20.6,High
+District of Utah,UT,68,47,21,38,1234,856,378,18.1,Adequate,None,11.6,18,13.9,Low
+Western District of Pennsylvania,PA,102,71,31,54,1967,1345,622,19.3,Adequate,None,16.9,27,16.8,Medium
+Southern District of California,CA,167,127,40,79,3678,2845,833,22.0,Understaffed,8 AUSAs needed,26.1,49,19.7,High
+District of Connecticut,CT,76,52,24,42,1456,978,478,19.2,Adequate,None,12.8,21,15.3,Low
+Eastern District of Michigan,MI,124,87,37,66,2567,1789,778,20.7,Adequate,None,20.1,36,18.2,Medium
+Northern District of California,CA,143,95,48,75,2789,1867,922,19.5,Adequate,None,23.4,39,17.6,Medium
+District of Minnesota,MN,89,61,28,49,1734,1178,556,19.5,Adequate,None,14.9,26,16.4,Medium
+Western District of Missouri,MO,82,56,26,44,1623,1089,534,19.8,Adequate,None,13.7,23,15.9,Low
