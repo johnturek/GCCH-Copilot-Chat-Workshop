@@ -1,0 +1,105 @@
+CLASSIFICATION: UNCLASSIFIED
+FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
+
+=== BATTALION TRAINING SCHEDULE DATA ===
+1st Battalion, 8th Infantry Regiment - Fort Bragg
+Training Period: April 2028
+
+CURRENT TRAINING EVENTS REQUIRING SCHEDULING:
+
+1. RIFLE RANGE QUALIFICATION
+   - Personnel: 450 Soldiers (Alpha, Bravo, Charlie Companies)
+   - Duration: 3 days per company
+   - Requirements: Range 12, 15, or 19
+   - Preferred dates: 5-15 April 2028
+   - Support needed: Transportation (6 buses), Range safety officers (12)
+
+2. ARMY PHYSICAL FITNESS TEST (APFT)
+   - Personnel: All battalion (520 Soldiers)
+   - Duration: 1 day per company
+   - Requirements: Track facility, pull-up bars
+   - Preferred dates: 8-12 April 2028
+   - Support needed: Medics (4), scoring sheets
+
+3. FIELD TRAINING EXERCISE (FTX) - PLATOON LIVE FIRE
+   - Personnel: All battalion (520 Soldiers)
+   - Duration: 1 day per company
+   - Requirements: Field training area, equipment
+   - Preferred dates: 15-19 April 2028
+   - Support needed: Ammunition, first aid supplies
+
+4. FIELD TRAINING EXERCISE (FTX)
+   - Personnel: Alpha and Charlie Companies (300 Soldiers)
+   - Duration: 5 days
+   - Requirements: Training Area 15 or 22
+   - Preferred dates: 22-26 April 2028
+   - Support needed: MREs (1500), water (5000 gallons)
+
+5. MOTOR TRANSPORT TRAINING
+   - Personnel: 85 Soldiers (Motor pool section + drivers)
+   - Duration: 2 days
+   - Requirements: Motor pool, driving course
+   - Preferred dates: 10-11 April 2028
+   - Support needed: Fuel (500 gallons), mechanics (3)
+
+6. COMMUNICATIONS EXERCISE
+   - Personnel: 65 Soldiers (G-6 section + radio operators)
+   - Duration: 1 day
+   - Requirements: High ground location, radio equipment
+   - Preferred dates: 18 April 2028
+   - Support needed: Generators (4), crypto materials
+
+RESOURCE CONSTRAINTS:
+
+Range Availability:
+- Range 12: Maintenance 8-10 April
+- Range 15: Available all month
+- Range 19: Booked by 3rd Battalion 12-16 April
+
+Transportation:
+- Only 4 buses available 8-12 April (2 in maintenance)
+- Full fleet available 15+ April
+
+Training Areas:
+- TA-15: Available except 25-30 April (engineer training)
+- TA-22: Available all month
+
+Personnel Conflicts:
+- 45 Soldiers on leave 20-30 April
+- HHC deploying 28 April (training must complete by 26 April)
+- Company Commanders' conference 17 April (training suspended)
+
+Support Staff Availability:
+- Range safety officers: Limited to 8 personnel 5-12 April
+- Medics: Full availability except 23-24 April (medical training)
+- Transportation section: Reduced capacity 8-12 April
+
+Weather Considerations:
+- Rain forecast 13-15 April (affects outdoor training)
+- High winds expected 24-25 April (impacts helicopter support for FTX)
+
+PRIORITY MATRIX (per Battalion Commander guidance):
+1. Rifle qualification (mandatory for deployment readiness)
+2. APFT (required for quarterly reports)
+3. FTX (critical for unit cohesion)
+4. Motor transport (supports all operations)
+5. Communications (enhances mission capability)
+
+ADDITIONAL CONSIDERATIONS:
+- Easter weekend 13-14 April (skeleton crew only)
+- Base cleanup day 19 April (all hands required)
+- Inspector General visit 29-30 April (all training suspended)
+
+CURRENT CONFLICTS IDENTIFIED:
+- Rifle range and PFT both need transportation same week
+- FTX dates conflict with personnel on leave
+- Range maintenance overlaps with qualification schedule
+- Company Commanders' conference affects leadership availability
+
+RECOMMENDED MITIGATION STRATEGIES NEEDED:
+- Adjust transportation schedule to support both rifle and PFT
+- Coordinate with leave section for FTX personnel availability
+- Identify alternate ranges for qualification
+- Develop contingency plans for weather delays
+
+CLASSIFICATION: UNCLASSIFIED
