@@ -1,0 +1,26 @@
+Asset_ID,Asset_Type,Model,Category,Status,Operational_Percentage,Current_Issue,Last_Maintenance,Next_Maintenance,Assigned_Location,Building,Days_Since_Maintenance,Maintenance_Cost_Last,Priority
+LAX-3001,Surveillance Van,Ford Transit Custom,Mobile Surveillance,Operational,95,None,2028-02-15,2028-05-15,Surveillance Squad,Motor Pool,32,4200,High
+LAX-3002,Body Wire,Motorola XTS,Technical Operations,Operational,92,None,2028-03-01,2028-06-01,Tech Ops Unit,SCIF,17,850,Critical
+LAX-3003,Cell Site Simulator,Harris StingRay,Technical Operations,Operational,98,None,2028-03-10,2028-04-10,Tech Ops Unit,SCIF,8,12400,Critical
+LAX-3004,Video Surveillance,Axis P3245-LVE,Fixed Surveillance,Operational,88,Firmware update needed,2028-02-20,2028-05-20,Field Office,Perimeter,27,1200,High
+LAX-3005,Surveillance Vehicle,Chevrolet Tahoe,Mobile Surveillance,Operational,90,None,2028-03-05,2028-06-05,Surveillance Squad,Motor Pool,13,2800,Medium
+LAX-3006,Night Vision,ATN ThOR 4,Specialized Equipment,Operational,96,None,2028-02-28,2028-05-28,Surveillance Squad,Equipment Room,19,2100,High
+LAX-3007,Audio Recording,Tascam DR-680MKII,Technical Operations,Limited Use,72,Battery replacement required,2028-01-15,2028-04-15,Tech Ops Unit,SCIF,62,650,High
+LAX-3008,GPS Tracker,GlobalStar ST100,Technical Operations,Operational,100,None,2028-03-12,2028-06-12,Tech Ops Unit,SCIF,6,450,Critical
+LAX-3009,Covert Camera,Lawmate PV-500,Technical Operations,Operational,94,None,2028-03-08,2028-06-08,Tech Ops Unit,SCIF,10,1100,Critical
+LAX-3010,Radio System,Motorola APX8000,Communications,Operational,91,None,2028-02-25,2028-05-25,All Squads,Multiple,22,3200,High
+LAX-3011,Drone,DJI Matrice 300,Aerial Surveillance,Operational,89,Propeller wear,2028-02-10,2028-05-10,Surveillance Squad,Equipment Room,37,8900,Medium
+LAX-3012,Laptop,Dell Rugged 7330,IT Equipment,Operational,97,None,2028-03-14,2028-09-14,Surveillance Squad,Mobile,4,0,Medium
+LAX-3013,Evidence Camera,Nikon D850,Forensics,Operational,85,Lens calibration needed,2028-01-20,2028-04-20,Evidence Response,Photo Lab,57,1800,Medium
+LAX-3014,Biometric Scanner,Crossmatch Guardian,Identification,Operational,93,None,2028-03-11,2028-06-11,Processing Center,Booking,7,2200,High
+LAX-3015,Polygraph Machine,Lafayette LX4000,Investigations,Operational,88,None,2028-02-18,2028-05-18,Polygraph Unit,Interview Room,29,4500,Medium
+LAX-3016,Encrypted Phone,Samsung Galaxy Tactical,Communications,Operational,95,None,2028-03-07,2028-09-07,All Personnel,Mobile,11,0,Critical
+LAX-3017,Signal Analyzer,Keysight N9030A,Technical Operations,Limited Use,68,Calibration overdue,2028-01-25,2028-04-25,Tech Ops Unit,SCIF,52,15600,Critical
+LAX-3018,Server,Dell PowerEdge R750,IT Infrastructure,Operational,99,None,2028-03-15,2028-06-15,Server Room,Main Building,3,0,Critical
+LAX-3019,Network Switch,Cisco Catalyst 9300,IT Infrastructure,Operational,100,None,2028-03-13,2028-06-13,Server Room,Main Building,5,0,Critical
+LAX-3020,CJIS Terminal,HP EliteDesk 800,IT Infrastructure,Operational,96,None,2028-03-09,2028-06-09,CJIS Room,Secure Area,9,0,Critical
+LAX-3021,Interview Recording,Panasonic AG-CX350,Investigations,Operational,92,None,2028-03-06,2028-06-06,Interview Rooms,Multiple,12,2400,High
+LAX-3022,Metal Detector,Garrett PD 6500i,Security,Operational,90,Annual certification due,2028-01-10,2028-04-10,Main Entrance,Lobby,67,1200,High
+LAX-3023,Evidence Locker,SecuRam ProLogic,Evidence Management,Operational,100,None,2028-02-22,2028-08-22,Evidence Room,Secure Storage,25,0,High
+LAX-3024,Ballistic Shield,Premier Body Armor,Tactical,Operational,87,Inspection required,2028-02-12,2028-05-12,Tactical Unit,Armory,35,850,High
+LAX-3025,Thermal Imager,FLIR E95,Specialized Equipment,Operational,94,None,2028-03-16,2028-06-16,SWAT Team,Equipment Room,2,3100,Medium

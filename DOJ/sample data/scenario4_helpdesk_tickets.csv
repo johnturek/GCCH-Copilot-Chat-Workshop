@@ -1,0 +1,17 @@
+﻿Ticket_ID,Date_Submitted,Submitter_Position,Submitter_Name,Division,Issue_Type,Priority,Description,Status,Assigned_Tech,Resolution_Time_Hours,Date_Resolved
+2028-1145,3/15/2028,AUSA,Thompson,Criminal Division,PACER Access,High,Unable to access PACER system after password expiration - need immediate reset for trial brief filing deadline,In Progress,Anderson,14,
+2028-1146,3/16/2028,Paralegal Specialist,Martinez,Criminal Division,LION Database,Medium,Intermittent connection drops affecting case management database and discovery logs,Resolved,Kim,3,3/16/2028
+2028-1147,3/17/2028,Legal Administrative Specialist,Chen,Civil Division,Phone System,Low,VOIP desk phone not receiving calls from external lines - internal calls work normally,Open,Johnson,0,
+2028-1148,3/18/2028,Public Affairs Specialist,Williams,Executive Office,Computer Hardware,High,Workstation will not boot - critical for press release distribution and media monitoring,Escalated,Anderson,22,
+2028-1149,3/18/2028,Paralegal Specialist,Brown,Criminal Division,PIV Card Reader,Critical,Smart card reader malfunction preventing access to sealed case documents in PACER,In Progress,Taylor,10,
+2028-1150,3/19/2028,Financial Litigation Unit Attorney,Davis,Civil Division,Software Issue,Medium,Microsoft Excel crashing when opening large financial fraud data spreadsheets over 50MB,Open,Kim,0,
+2028-1151,3/20/2028,Confidential Assistant,Garcia,U.S. Attorney Office,Printer Issue,Low,Color printer in U.S. Attorney's suite producing streaked output - black and white printing acceptable,Resolved,Johnson,2,3/20/2028
+2028-1152,3/21/2028,First AUSA Staff Assistant,Wilson,Executive Office,Network Connectivity,High,Cannot access shared drives on DOJ network - affecting senior staff meeting preparation,In Progress,Taylor,5,
+2028-1153,3/22/2028,AUSA,Lee,Civil Division,Password Reset,Low,Forgot network password after extended trial in another district - need reset for case file access,Resolved,Kim,1,3/22/2028
+2028-1154,3/23/2028,IT Specialist,Taylor,IT Support,VPN Access,Critical,VPN connection failing for remote work during federal holiday - needed for emergency grand jury matter,Open,Anderson,0,
+2028-1155,3/15/2028,Paralegal Specialist,Rodriguez,Criminal Division,Discovery Platform,High,Electronic discovery platform (Relativity) slow performance affecting Brady material review for March 22 deadline,In Progress,Kim,12,
+2028-1156,3/16/2028,AUSA,Johnson,Criminal Division,CM/ECF Filing,Critical,Cannot e-file motion in limine due to CM/ECF system error - hearing scheduled tomorrow morning at 0900,Escalated,Anderson,18,
+2028-1157,3/17/2028,Victim Witness Coordinator,Smith,Criminal Division,Database Access,Medium,Unable to access Victim Notification System (VNS) to send trial date updates to 23 victims,Open,Taylor,0,
+2028-1158,3/18/2028,Legal Research Specialist,Zhang,Appellate Section,Westlaw Access,High,Westlaw account locked after multiple login attempts - need access for appellate brief research due Friday,In Progress,Kim,6,
+2028-1159,3/19/2028,AUSA,Anderson,Civil Division,Scanner Issue,Medium,Secure scanner in Civil Division not working - need to digitize subpoena responses for production,Resolved,Johnson,4,3/19/2028
+2028-1160,3/20/2028,Paralegal Specialist,Brown,Criminal Division,Case Management,High,LION case management system not syncing with PACER - case status discrepancies affecting reports to EOUSA,Open,Taylor,0,

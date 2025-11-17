@@ -1,4 +1,4 @@
-# DoD Copilot Chat Workshops
+# DoD / GCCH Copilot Chat Workshops
 ![Classification](https://img.shields.io/badge/Classification-UNCLASSIFIED-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-Free-blue)
@@ -15,6 +15,8 @@ A comprehensive collection of hands-on training materials for U.S. military serv
 | ⛵ USCG | 🔄 In Progress | [View](USCG/README.md) | ✅ [View](/USCG/sample%20data/) | - |
 | 🚀 USSF | 🔄 In Progress | [View](USSF/README.md) | 🔄 Pending | - |
 | 🏛️ DOS  | 🔄 In Progress | [View](DOS/README.md) | ✅ [View](/DOS/sample%20data/) | - |
+| ⚖️ DOJ  | 🔄 In Progress | [View](DOJ/README.md) | 🔄 Pending | - |
+| 🛡️ FBI  | 🔄 In Progress | [View](FBI/README.md) | 🔄 Pending | - |
 
 ## 🚀 Quick Start (5 Minutes)
 
