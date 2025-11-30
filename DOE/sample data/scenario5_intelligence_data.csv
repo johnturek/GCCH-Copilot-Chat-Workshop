@@ -1,0 +1,13 @@
+Report_ID,Date,Time,Source,Indicator_Type,Topic_Area,Severity,Indicator,Details,Status,Analyst,Priority
+IES-2028-089,3/18/2028,0845,NAEP Data,Achievement,National Trends,Medium,Reading Score Decline,Fourth-grade reading scores declined 3 points nationally from 2024 to 2028 assessment cycle,Active,Thompson,2
+IES-2028-090,3/19/2028,1030,State Reporting,Enrollment,Higher Education,Low,Community College Enrollment,Community college enrollment increased 8% in Fall 2027 - first significant increase since 2019,Monitoring,Chen,3
+IES-2028-091,3/19/2028,1415,NCES Survey,Achievement Gaps,K-12 Education,High,Math Gap Widening,Achievement gap in mathematics between high and low-income students widened to 35 points on NAEP scale,Active,Rodriguez,1
+IES-2028-092,3/20/2028,0920,Research Study,Graduation Rates,Secondary Education,Medium,Rural Graduation Improvement,Rural high school graduation rates improved 4 percentage points over 5-year period reaching 89%,Investigating,Thompson,2
+IES-2028-093,3/21/2028,1145,State Data,Teacher Workforce,Educator Quality,High,Teacher Shortage Critical,15 states reporting critical teacher shortages in STEM and special education exceeding 20% vacancy rates,Active,Rodriguez,1
+IES-2028-094,3/22/2028,1600,Census Data,Demographics,Student Population,Medium,EL Population Growth,English learner student population increased 12% nationally over past 3 years - highest growth in Southeast,Monitoring,Chen,2
+IES-2028-095,3/23/2028,0730,Higher Ed Data,Completion,Postsecondary,Low,Pell Grant Graduation,Six-year graduation rate for Pell Grant recipients reached 58% - 5 point improvement from 2020,Closed,Thompson,3
+IES-2028-096,3/24/2028,1320,State Reports,Assessment,Testing Policy,Medium,Computer-Based Testing,42 states now administering all state assessments via computer-based platforms - up from 28 in 2023,Active,Rodriguez,2
+IES-2028-097,3/24/2028,1545,Research Brief,School Climate,Safety,High,Chronic Absenteeism,Chronic absenteeism rates remain 30% above pre-pandemic levels affecting 16 million students nationally,Active,Chen,1
+IES-2028-098,3/25/2028,0915,Think Tank,Funding,Education Finance,Low,State Education Spending,State education spending per pupil increased 4.2% in FY2027 adjusting for inflation,Monitoring,Thompson,3
+IES-2028-099,3/26/2028,1205,News Reporting,Policy,Early Childhood,High,Pre-K Expansion,12 additional states announced universal pre-K initiatives for FY2029 implementation,Active,Rodriguez,1
+IES-2028-100,3/27/2028,1430,IPEDS Data,Diversity,Higher Education,Medium,Minority Enrollment,First-generation college student enrollment at 4-year institutions increased 7% from 2025 to 2027,Investigating,Chen,2
